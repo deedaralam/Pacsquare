@@ -4,7 +4,7 @@
   "description": "A project is company website pacsquare",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/deedaralam/Pacsquare.git"
   },
   "author": "DeedarAlam",
   "devDependencies": {
