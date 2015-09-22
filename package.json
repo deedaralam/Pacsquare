@@ -1,0 +1,10 @@
+{
+  "name": "pacsquare",
+  "version": "1.0.0",
+  "description": "A project is company website pacsquare",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "DeedarAlam"
+}
